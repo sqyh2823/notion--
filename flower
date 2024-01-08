@@ -427,7 +427,6 @@ proxy-groups:
       - 🇺🇸 美国高级 IEPL 中继 1
       - 🇺🇸 美国高级 IEPL 中继 2
       - 🇺🇸 美国高级 IEPL 中继 3
-      - 🇺🇸 美国标准 IEPL 中继 1
 rules:
  - DOMAIN,app.adjust.com,DIRECT
  - DOMAIN,app.appsflyer.com,DIRECT
